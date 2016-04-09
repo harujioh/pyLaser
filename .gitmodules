@@ -1,0 +1,6 @@
+[submodule "openFrameworks/addons/ofxIlda"]
+	path = openFrameworks/addons/ofxIlda
+	url = https://github.com/harujioh/ofxIlda.git
+[submodule "openFrameworks/addons/ofxEtherdream"]
+	path = openFrameworks/addons/ofxEtherdream
+	url = https://github.com/harujioh/ofxEtherdream.git
