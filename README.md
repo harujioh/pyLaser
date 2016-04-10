@@ -1,14 +1,13 @@
-# openFrameworks teamplate
+# pyLaser
 
-A template for openFrameworks.
+Using a template for openFrameworks. ([openFrameworks-template](https://github.com/harujioh/openFrameworks-template))
 
 
 ## Usage
 
 ```
-$ git clone https://github.com/yuhki50/openFrameworks-template.git
-$ cd openFrameworks-template
-$ sh ./scripts/setup.sh
+$ cd pyLaser
+$ sh ./scripts/setup_armv6.sh
 ```
 
 
